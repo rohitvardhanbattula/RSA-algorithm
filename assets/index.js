@@ -1,0 +1,9 @@
+export {default as HeroImage} from "./images/hero.png";
+export {default as Avatar} from "./images/avatar.png";
+export {default as Hotels} from "./images/hotel.png";
+export {default as Attractions} from "./images/attraction.png";
+export {default as Restaurants} from "./images/restaurants.png";
+export {default as NotFound} from "./images/NotFound.png";
+export {default as Confirmed} from "./images/Confirmed.png";
+export {default as Logo} from "./images/Logo.png";
+export {default as Rohit} from "./images/TokyoHero1.png";
